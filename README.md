@@ -4,7 +4,7 @@ Implementação do jogo da velha em Python, este repositório contém o código-
 
 O jogo é executado em um terminal, exibindo o tabuleiro e alternando entre os jogadores até que um jogador vença ou ocorra um empate.
 
-# Como funciona 
+## Como funciona 
 
 - O jogo é executado em um loop principal que continua até que um jogador vença ou ocorra um empate. 
 
