@@ -24,7 +24,7 @@ Para rodar os testes, rode o seguinte comando
 
 1) Clone este repositório ou faça o download dos arquivos.
 ```bash
-  git@github.com:Taunt-byte/Python-digital-clock.git
+  git@github.com:Taunt-byte/Python-jogo-da-velha.git
 ```
 
 2) Execute esse comando.
